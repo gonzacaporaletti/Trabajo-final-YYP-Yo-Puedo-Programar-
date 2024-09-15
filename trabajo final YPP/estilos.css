@@ -1,0 +1,54 @@
+#estrellado{
+    background-image: url(estrellas.jpg);
+    font-family:Tahoma;
+    font-size: 18px;
+}
+
+header{
+    background-image: url(estrellas.jpg);
+}
+
+p{
+    color: white;
+}
+
+img{
+    margin: auto;
+}
+
+header{
+text-align: center;
+margin: 10px black;
+background-color: black;
+padding: 20px;
+}
+
+footer{
+padding: 15px;
+color: white;
+background-color: black;
+}
+
+iframe{
+    margin: auto;
+}
+
+#buho{
+    text-align: right;
+    background-color: black;
+}
+
+#adaptación{
+    text-align: left;
+    padding: 25px;
+    background-color: black;
+}
+
+#nada{
+    color: white;
+    text-align: center;
+}
+
+#this{
+    margin: 30px;
+}
